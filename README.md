@@ -1,9 +1,25 @@
 # Sorting Algorithm Visualizer
 
+![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![GitHub stars](https://img.shields.io/github/stars/edemyakoubi/sorting-algorithm-visualizer)
+![GitHub forks](https://img.shields.io/github/forks/edemyakoubi/sorting-algorithm-visualizer)
+
 A **professional sorting algorithm visualizer** in Python using Matplotlib.  
 This project generates **animated GIFs** for multiple sorting algorithms, highlighting comparisons, swaps, pivots, and other key steps with a clear transcript.
 
----
+## GIF Preview
+
+![Bubble Sort](bubble_sort.gif)
+
+## Table of Contents
+
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Folder Structure](#folder-structure)
+- [Customization](#customization)
+- [Example Output](#example-output)
+- [License](#license)
 
 ## Features
 
@@ -32,7 +48,7 @@ This project generates **animated GIFs** for multiple sorting algorithms, highli
 ### 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/edemyakoubi/sorting-algorithm-visualizer.git
 cd sorting-algorithm-visualizer
 ```
 
